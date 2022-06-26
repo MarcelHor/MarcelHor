@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcelhor" alt="marcelhor" /></a> </p>
 
-- 🌱 I’m currently trying to survive
+- 🌱 I’m currently learning web dev 😊
 
 
 
