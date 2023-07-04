@@ -1,5 +1,6 @@
 <h1>Hi <span class="wave-hand">👋</span>, I'm Marcel Horváth</h1>
-<p> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelhor&label=Profile%20views&color=3178C6&style=flat" alt="marcelhor" /> </p>
+
 
 <h3>Languages and Tools</h3>
 <div>
