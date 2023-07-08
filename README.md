@@ -16,6 +16,9 @@
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
   </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  </a>
   <a href="https://expressjs.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js">
   </a>
@@ -30,6 +33,9 @@
   </a>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" alt="Django">
   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
