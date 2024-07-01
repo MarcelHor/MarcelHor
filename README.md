@@ -56,12 +56,14 @@
 
 #
 
-<h3 align="left">Connect with me</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/marcel-hor/" target="blank"><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-  </a>
+<h3 align="center">CONNECT WITH ME</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/marcel-hor/" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"></a
+</p>
+<p align="center">
+   <a href="https://www.marcel-horvath.com/" target="_blank">https://www.marcel-horvath.com/</a>
 </p>
 
 #
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelhor&" alt="marcelhor" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelhor&" alt="marcelhor" /></p>
