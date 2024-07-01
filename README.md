@@ -7,6 +7,9 @@
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" alt="React">
   </a>
+  <a href="https://vuejs.org/" target="_blank">
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js">
+</a>
   <a href="https://reactnative.dev/" target="_blank">
     <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=white" alt="React Native">
   </a>
@@ -56,8 +59,6 @@
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/marcel-hor/" target="blank"><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-  </a>
-  <a href="https://www.instagram.com/marcelus_h/" target="blank"><img height=30 src="https://cdn.myshoptet.com/usr/www.dobrycider.cz/user/documents/upload/instagram-icon.png" />
   </a>
 </p>
 
